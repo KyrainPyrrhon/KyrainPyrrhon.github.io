@@ -12,4 +12,4 @@
 
 #French
 
-<Coming Soon
+>Coming Soon
