@@ -2,6 +2,6 @@
 
 # THIS IS FROM KYRAIN !
 
-![](bg.jpg)
+![](bg.jpg =300*200)
 
 # WELCOME !
