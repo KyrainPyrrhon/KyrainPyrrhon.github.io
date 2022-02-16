@@ -5,5 +5,3 @@
 ![](bg.jpg)
 
 # WELCOME !
-
-# THIS IS FROM KYRAIN !
